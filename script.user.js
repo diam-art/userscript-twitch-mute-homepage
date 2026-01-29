@@ -40,7 +40,7 @@
       player.addEventListener('playing', function handler() {
         player.volume = 0
         // remove the handler immediately,
-        // so we are not stuck in a pausing loop
+        // so we are not stuck in a mute loop
         player.removeEventListener('playing', handler)
       })
 
